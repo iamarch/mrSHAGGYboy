@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**mrSHAGGYboy/mrSHAGGYboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # MR.SHAGGY
 This is me !
@@ -11,15 +7,31 @@ This is me !
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](MR_SHAGGY:avishkadilshan19656@gmail.com)
 
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on SL MEADIA TECH !
-- 🌱 I’m currently learning python !
-- 🤔 I’m like to help others !
-- 💬 Ask me about anything I like help !
-- 📫 How to reach me: Telegram username - @mrSHAGGYboy !
-- ⚡ Fun fact and still student !
--->
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+-😋 I,m MR.SHAGGY
+-😋 I’m currently working on [SL MEADIA TECH](https://t.me/SL_MEDIA_TECH_GRUOP);
+-😋 I’m currently learning Python 
+-😋 Ask me about anything, I am happy to help;
+-😋I'm Still Student
+
+# MOST USED LANGUAGES
+
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=mrSHAGGYboy)
+
+<p>
+  <a href="https://github.com/mrSHAGGYboy/handle-path-oz">
+    <img width="55%" align="right" alt="Shaggy's github stats" src="https://github-readme-stats.vercel.app/api?username=mrSHAGGYboy&show_icons=true&hide_border=true" />
+  </a>
+
+
+
+
+
+
 
 
 
